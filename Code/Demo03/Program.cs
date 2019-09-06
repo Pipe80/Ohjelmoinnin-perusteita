@@ -6,8 +6,7 @@ namespace Demo03
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Wazzzzuuuup");
-            Console.ReadKey();
+            Console.WriteLine("Hello World!");
         }
     }
 }
