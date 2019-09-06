@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace Demo03
+namespace Demo04
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Wazzzzuuuup");
-            Console.ReadKey();
+            Console.WriteLine("Hello World!");
         }
     }
 }
