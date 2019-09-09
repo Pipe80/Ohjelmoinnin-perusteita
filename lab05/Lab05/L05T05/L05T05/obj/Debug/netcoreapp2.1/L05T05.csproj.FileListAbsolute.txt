@@ -1,0 +1,10 @@
+C:\Koulujutut\GitLab\ttzc0200\lab05\Lab05\L05T05\L05T05\bin\Debug\netcoreapp2.1\L05T05.deps.json
+C:\Koulujutut\GitLab\ttzc0200\lab05\Lab05\L05T05\L05T05\bin\Debug\netcoreapp2.1\L05T05.runtimeconfig.json
+C:\Koulujutut\GitLab\ttzc0200\lab05\Lab05\L05T05\L05T05\bin\Debug\netcoreapp2.1\L05T05.runtimeconfig.dev.json
+C:\Koulujutut\GitLab\ttzc0200\lab05\Lab05\L05T05\L05T05\bin\Debug\netcoreapp2.1\L05T05.dll
+C:\Koulujutut\GitLab\ttzc0200\lab05\Lab05\L05T05\L05T05\bin\Debug\netcoreapp2.1\L05T05.pdb
+C:\Koulujutut\GitLab\ttzc0200\lab05\Lab05\L05T05\L05T05\obj\Debug\netcoreapp2.1\L05T05.csproj.CoreCompileInputs.cache
+C:\Koulujutut\GitLab\ttzc0200\lab05\Lab05\L05T05\L05T05\obj\Debug\netcoreapp2.1\L05T05.AssemblyInfoInputs.cache
+C:\Koulujutut\GitLab\ttzc0200\lab05\Lab05\L05T05\L05T05\obj\Debug\netcoreapp2.1\L05T05.AssemblyInfo.cs
+C:\Koulujutut\GitLab\ttzc0200\lab05\Lab05\L05T05\L05T05\obj\Debug\netcoreapp2.1\L05T05.dll
+C:\Koulujutut\GitLab\ttzc0200\lab05\Lab05\L05T05\L05T05\obj\Debug\netcoreapp2.1\L05T05.pdb
